@@ -1,30 +1,27 @@
 <h1>SPEEDRUN</h1>
 
-Расширение, позволяющее ускорять видео на youtube и vk во сколько угодно раз.
+An extension that allows you to speed up videos on YouTube and VK as much as you want
 
-<h2>Загрузка</h2>
+<h2>Installing</h2>
 
 <h3>Opera, Chrome</h3>
-Зайдите в настройки браузера во вкладку расширения. Включите режим разработчика.
-Нажмите на кнопку Загрузить распакованное расширение. Загрузите папку chrome, opera.
+Go to the browser settings in the extensions tab. Turn on developer mode.
+Click on the Download the unpacked extension button. Upload the chrome_opera folder
 
+<h2>Usage</h2>
+To speed up the video playback, hold down the Shift and > keys
 
-<h2>Использование</h2>
-Для ускорения видео зажмите клавиши 'shift' и 'Ю' 
-(чтобы на английской раскладке получился символ '>').
+To slow down the video playback, hold down the Shift and < keys
 
-Для замедления видео зажмите клавиши 'shift' и 'Б'
-(чтобы на английской раскладке получился символ '<').
+Speed up/slow down video playback step - 0.1
 
-Шаг ускорения/замедления видео - 0.1.
-
-<h2>Примечания</h2>
+<h2>Notes</h2>
 
 <h3>Yotube</h3>
-Расширение работает только на сайте самого ютуба. Если вы смотрите видео в плеере ютуба
-на другом сайте, расширение работать не будет. Для его работы необходимо перейти на ютуб
+The extension works only on the YouTube website. If you are watching a video in a YouTube player
+on another website, go to the YouTube website to make the extension work
 
 <h3>Vk</h3>
-Расширение работает только во вкладке Видео
+The extensions works only on the Video tab in VK
 
 
