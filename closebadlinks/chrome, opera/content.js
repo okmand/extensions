@@ -6,14 +6,14 @@ params = {
 }
 
 function main() {
-    let check = false;
+    let isBadLink = false;
     params.badLinks.some(element => {
         if (window.location.href.includes(element)) {
-            check = true;
+            isBadLink = true;
             return true;
         }
     })
-    if (check) {
+    if (isBadLink) {
         close();
     }
 }
