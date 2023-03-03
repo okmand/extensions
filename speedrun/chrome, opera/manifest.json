@@ -13,8 +13,14 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["content.js"],
-      "css" : ["index.css"]
+      "js": [
+        "js/vk/VkContent.js",
+        "js/youtube/YoutubeContent.js",
+        "js/content.js"
+      ],
+      "css": [
+        "index.css"
+      ]
     }
   ]
 }
